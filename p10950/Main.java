@@ -2,6 +2,9 @@ package p10950;
 
 import java.util.Scanner;
 
+/**
+ * A+B를 출력
+ */
 public class Main {
 	public static void main(String[] args) {
 		int T;

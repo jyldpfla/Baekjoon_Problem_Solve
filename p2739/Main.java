@@ -2,6 +2,9 @@ package p2739;
 
 import java.util.Scanner;
 
+/**
+ * 구구단
+ */
 public class Main {
 	public static void main(String[] args) {
 		int A;
